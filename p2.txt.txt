@@ -1,2 +1,2 @@
 
-program2
+program2 version 2
